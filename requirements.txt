@@ -1,0 +1,8 @@
+python-dotenv
+azure-identity
+azure-ai-projects
+openai
+azure-cli
+streamlit
+whatchdog
+
